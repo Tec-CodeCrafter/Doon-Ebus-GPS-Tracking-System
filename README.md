@@ -40,8 +40,8 @@ The project is currently in the design and development stage and focuses on UI/U
 ## 📸 Screenshots
 
 ![Dashboard UI](images/screenshot1.jpg)  
-![Core Features](images/corefeatures.jpg)  
-![Smart Notifications](images/smartnotifications.jpg)
+![Core-Features](images/CoreFeatures.jpg)
+![Smart-Notifications](images/SmartNotifications.jpg)
 
 ---
 
